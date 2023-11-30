@@ -21,7 +21,7 @@ Status Code: 200 OK
 Body: The response body will contain the current date and time.
 
 Request
-GET http://localhost:8000/
+GET http://localhost:7000/
 Responce
 time: 05:17:20.36 Date: 2023-11-30
 Running the Server
